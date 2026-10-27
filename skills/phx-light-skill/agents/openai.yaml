@@ -1,0 +1,8 @@
+interface:
+  display_name: "PHX Light Skill"
+  short_description: "二次元摄影布光反向工程"
+  brand_color: "#F59E0B"
+  default_prompt: "Use $phx-light-skill to analyze the lighting of this anime/cosplay-style reference photo (分析这张图的布光)。"
+
+policy:
+  allow_implicit_invocation: true
